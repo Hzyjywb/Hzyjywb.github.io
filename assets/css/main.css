@@ -134,7 +134,7 @@
 
 /* =Post page *//*************************************************************/
   .about {
-    color: #828282;
+    color: #3370f5;
     text-align: center;
     line-height: 24px; }
 
@@ -169,7 +169,7 @@
 /* =Main Page *//*************************************************************/
   #about-img {
     border-radius: 13%;
-    max-width: 125px;
+    max-width: 150px;
     margin: auto;
     margin-bottom: 3%;
   }
