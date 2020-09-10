@@ -10,5 +10,5 @@ sitemap:
 
 <div id="describe-text">
 	<p>This is a simple communication platform, you are always welcome to come</p>
-	<p>Civilized exchange, happy you and I him <strong>🍁 <a href="https://github.com/Hzyjywb/Hzyjywb.github.io"> </a> </strong></p>
+	<p>Civilized exchange, happy you and I him <strong> <a href="https://github.com/Hzyjywb/Hzyjywb.github.io"> </a> </strong></p>
 </div>

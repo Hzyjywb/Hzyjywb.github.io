@@ -38,7 +38,7 @@
     blockquote p {
       display: inline;
       font-size: 120%;
-      color: #828282;
+      color:  #16a085;
       font-weight: 400; }
 
   strong {
@@ -100,7 +100,7 @@
   .page-title__subtitle {
     font-weight: 400;
     font-size: 75%;
-    color: #828282; }
+    color: #16a085; }
 
 /* =Post teasers *//*************************************************************/
   .list-posts {
@@ -113,13 +113,13 @@
 
   .post-teaser__title {
     font-size: 100%;
-    color: #828282; }
+    color: #16a085; }
 
   .post-teaser__date {
     font-size: 100%;
     float: right;
     vertical-align: middle;
-    color: #828282; }
+    color: #16a085; }
 
   .post-teaser__month {
     width: 100%;
@@ -169,7 +169,7 @@
 /* =Main Page *//*************************************************************/
   #about-img {
     border-radius: 13%;
-    max-width: 150px;
+    max-width: 300px;
     margin: auto;
     margin-bottom: 3%;
   }
