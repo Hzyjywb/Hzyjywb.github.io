@@ -81,7 +81,7 @@
   .social-links {
     float: right;
     font-size: 150%;
-    color: #84eeb0;
+    color: #84ee9f;
     list-style-type: none; }
 
   .social-links__entry {
@@ -100,7 +100,7 @@
   .page-title__subtitle {
     font-weight: 400;
     font-size: 75%;
-    color: #16a085; }
+    color: #16a054; }
 
 /* =Post teasers *//*************************************************************/
   .list-posts {
@@ -113,13 +113,13 @@
 
   .post-teaser__title {
     font-size: 100%;
-    color: #16a085; }
+    color: #16a04b; }
 
   .post-teaser__date {
     font-size: 100%;
     float: right;
     vertical-align: middle;
-    color: #16a085; }
+    color: #16a02d; }
 
   .post-teaser__month {
     width: 100%;
@@ -134,7 +134,7 @@
 
 /* =Post page *//*************************************************************/
   .about {
-    color:  #16a085;
+    color:  #16a039;
     text-align: center;
     line-height: 24px; }
 
