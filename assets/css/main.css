@@ -140,10 +140,12 @@
 
   .about__devider {
     font-size: 100%;
-    letter-spacing: 9.09px; }
+    letter-spacing: 9.09px; 
+    background: #16a0a0;}
 
   .about__text {
-    font-size: 100%; }
+    font-size: 100%;
+    background: #1684a0; }
 
   .center-text {
     text-align: center;
