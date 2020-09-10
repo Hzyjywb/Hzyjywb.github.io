@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 你好 
-subtitle: 我叫胡梓洋
+title: Hello
+subtitle: My name is HuZiYang
 sitemap:
   priority: 0.9
 ---
@@ -9,6 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>这是一个简易的交流平台</p>
-	<p>欢迎你的到来 <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>This is a simple communication platform, you are always welcome to come</p>
+	<p>Civilized exchange, happy you and I him <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
 </div>

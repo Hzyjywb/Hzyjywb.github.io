@@ -81,7 +81,7 @@
   .social-links {
     float: right;
     font-size: 150%;
-    color: #828282;
+    color: #84eeb0;
     list-style-type: none; }
 
   .social-links__entry {
@@ -140,16 +140,13 @@
 
   .about__devider {
     font-size: 100%;
-    letter-spacing: 9.09px; 
-    background: #16a0a0;}
+    letter-spacing: 9.09px; }
 
   .about__text {
-    font-size: 100%;
-    background: #1684a0; }
+    font-size: 100%;}
 
   .center-text {
-    text-align: center;
-  }
+    text-align: center;}
 
 /* =Page navigation *//*************************************************************/
   .PageNavigation {
