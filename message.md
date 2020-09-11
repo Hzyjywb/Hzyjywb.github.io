@@ -2,6 +2,7 @@
 layout: self
 title: 留言区
 subtitle: 欢迎评论
+liziyue: dsg
 ---
 <form action="sava_book.php" method="post">
     <p>用户名<input type="text" name="username"></p>
