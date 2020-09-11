@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: 学习文章
 subtitle: Talk about life
 ---
 

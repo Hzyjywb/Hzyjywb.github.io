@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Résumé
+title: 学习笔记
 subtitle: An ordinary person
 ---
 
@@ -29,3 +29,20 @@ subtitle: An ordinary person
 
 - 修改配置文件以及页面内容
 - 书写博客 
+
+### 抽象能力的高低 是 评判一个程序猿能力的重要标准（非严谨的表达：唯一标准）
+> - PHP是一个语言，与计算机交流的语言，语法
+> - 想在电脑中使用php语法与计算机交流 一定得需要一个翻译工具——php解析器——apache的“php”模块
+> - 我们使用的是nginx 并且使用的是php-fpm作为php的解析器   docker
+
+### Laravel框架（最重要 使用度最广）
+> - 什么是框架
+>    - 框架 跟 程序的种类 没有关系
+>    - 一个程序（系统）的目录结构（表面的）
+>    - 框架 是 一堆常用的模块（包/组件）组成的具有特定目录结构的一个空项目（大的组件）
+>    -php模块（组件/包）：一些特殊（特定）的功能用php代码实现（model类/文件上传类/Excel解析/图片 识别/支付/。。。。）我们要想实现类似的功能 就需要下载这一块的代码（安装某组件）—— composer工具
+>    - 组件 都具有高度 抽象性（将 多个事物的共同点抽离出来）
+> - composer工具（https://www.phpcomposer.com/）——php的包管理工具
+>    -这是一个帮助我们下载组件/包/模块 的一个工具
+>    -这些组件都放在https://packagist.org这个网站当中
+> - 安装 composer create-project --prefer-dist laravel/laravel manSys "5.5.*"
