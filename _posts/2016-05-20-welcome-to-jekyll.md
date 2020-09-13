@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "搭建个人技术博客"
-subtitle: "A minimal Jekyll theme"
+subtitle: "初学"
 date:   2016-05-20 21:21:21 +0530
 categories: ["general"]
 ---
