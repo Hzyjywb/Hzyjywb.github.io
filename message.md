@@ -5,7 +5,6 @@ subtitle: 欢迎评论
 liziyue: 
 ---
 <form method="post" action="sava_book.php">
-  		<table border=1 width=500 align="center" cellpadding=3 cellspacing=2 bgcolor=#E6CAFF>
   			<tr>
   				<td>姓名：</td>
   				<td><input type="text" name="name" size="25"></td>
@@ -33,6 +32,5 @@ liziyue:
   			</table>
   			<hr>
   			</td>
-  			</table>
   		</form>
 
