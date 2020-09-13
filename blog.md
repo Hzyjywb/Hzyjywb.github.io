@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 学习文章
-subtitle: Talk about life
+title: 学习笔记
+subtitle: Learning makes me happy
 ---
 
 <div>
